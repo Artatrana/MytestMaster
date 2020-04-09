@@ -1,0 +1,9 @@
+[submodule "MytestChild1"]
+	path = MytestChild1
+	url = https://github.com/Artatrana/MytestChild1.git
+[submodule "MytestChild2"]
+	path = MytestChild2
+	url = https://github.com/Artatrana/MytestChild2.git
+[submodule "MytestChild3"]
+	path = MytestChild3
+	url = https://github.com/Artatrana/MytestChild3.git
